@@ -4,8 +4,7 @@ The script, written using python, to organise a mess outlook inbox.
 It works by going through each email, getting the date/year it was sent and then organising it into a folder/subfolder based on this info.
 
 
-HOW TO USE
-
+How to use:
 You will need the following installed on your PC:
 1. Python (Can be dowbloaded from: https://www.python.org/downloads/)
 2. pywin32 Library (Can be installed via powershell with the command: pip install pywin32)
